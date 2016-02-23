@@ -1,7 +1,7 @@
 {
   "name": "qv2",
   "description": "A slightly modified Queue.js",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "licenses": [
     {
       "name": "CC0 1.0 Universal",
