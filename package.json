@@ -1,0 +1,14 @@
+{
+  "name": "qv2",
+  "description": "A slightly modified Queue.js",
+  "version": "1.0.1",
+  "licenses": [
+    {
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "homepage": "https://github.com/UltraFTW/qv2",
+  "main": "src.js",
+  "repository": "UltraFTW/qv2"
+}
