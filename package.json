@@ -10,5 +10,6 @@
   ],
   "homepage": "https://github.com/UltraFTW/qv2",
   "main": "src.js",
-  "repository": "UltraFTW/qv2"
+  "repository": "UltraFTW/qv2",
+  "tonicExampleFilename": "example.js"
 }
